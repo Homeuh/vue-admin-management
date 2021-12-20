@@ -4,7 +4,7 @@
 Vue2 + Vue-router + vuex + Element-UI + axios + Echarts
 
 ### 后端API
-[配套修改后的接口API](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
+[配套修改后的接口API](https://github.com/Homeuh/vueShop-api-server.git)
 
 [原接口API](https://gitee.com/wBekvam/vueShop-api-server.git)
 ### 运行项目
