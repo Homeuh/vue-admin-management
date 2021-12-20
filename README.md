@@ -16,3 +16,6 @@ Vue2 + Vue-router + vuex + Element-UI + axios + Echarts
   - git clone 本仓库地址
   - cnpm install
   - npm run serve
+### 启动项目
+- 用户名: admin
+- 密码：123456
