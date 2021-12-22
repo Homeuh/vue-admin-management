@@ -28,4 +28,12 @@ export default {
         background-color: #a1a3a9;
         border-radius: 10px;
     }
+    /*二级菜单的父级菜单也随之高亮*/
+    .el-submenu.is-active > .el-submenu__title{
+        color: #409EFF !important;
+    }
+    /*父级菜单i内容被写死要再次定义*/
+    .el-submenu.is-active > .el-submenu__title i{
+        color: #409EFF ;
+    }
 </style>
